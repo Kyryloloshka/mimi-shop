@@ -25,6 +25,13 @@ export default function Home() {
           />
         </div>
       </section>
+      <section id="events" className="wrapper my-8 gap-8 md:gap-12 flex flex-col">
+        <h2 className="h2-bold">Trust by <br/>Thousands of Events</h2>
+        <div className="flex w-">
+          Search
+          CategoryFilter
+        </div>
+      </section>
     </>
   );
 }
